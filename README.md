@@ -9,7 +9,7 @@ Built for **speed, reliability, and explainability**, with automatic LLM failove
 
 ## 🚀 Live Demo
 
-👉 **[Try the Live App](#)** *(Streamlit)*
+👉 **[Try the Live App](https://equity-research-ai-tool-by-sai-kiran.streamlit.app/)**
 
 ---
 
