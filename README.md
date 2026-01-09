@@ -3,7 +3,7 @@
 Real-time financial news analysis powered by AI.
 
 ## 🚀 Live Demo
-[**Try it here!**]([https://equity-research-ai-tool-by-sai-kiran.streamlit.app/])
+[**Try it here!**](https://equity-research-ai-tool-by-sai-kiran.streamlit.app/)
 
 ## ✨ Features
 - 📰 **Real-time News** - Fetches latest articles from NewsAPI
